@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.workers.ficheprobot.ficheprobot.twa",
+        "sha256_cert_fingerprints": ["EE:DA:7E:68:E5:EA:92:8D:20:F3:2D:C0:66:F8:8E:EF:DF:49:BD:05:D2:79:FF:BF:2E:23:CD:56:56:B2:E0:85"]
+      }
+    }]
